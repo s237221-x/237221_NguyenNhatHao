@@ -11,4 +11,4 @@ React, Node.js, Express, MongoDB Atlas, Docker, Render.
 - Link Docker Hub Frontend: https://hub.docker.com/r/237221nguyennhathao/frontend
 - Link Render App: https://hr-frontend-237221.onrender.com
 - Link Render API: https://hr-backend-237221.onrender.com
-- Link MongoDB Atlas:https://cloud.mongodb.com
+- Link MongoDB Atlas: https://cloud.mongodb.com
